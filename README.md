@@ -7,6 +7,9 @@
 
 **Note: False positives may occur due to security measures protecting the file. Please review the [VirusTotal scan results](https://www.virustotal.com/gui/file/bccc0b39e067a92bfa5bdb00a2b807ad16c35011a829c0761f5fb381cfa45bec?nocache=1) for more information.**
 
+## Download
+[Download Eventus](https://github.com/astro-services/eventus/raw/main/Eventus.exe)
+
 ## Features
 -  Spoof HWID
 -  Spoof GUID
